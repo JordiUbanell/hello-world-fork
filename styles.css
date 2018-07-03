@@ -6,6 +6,9 @@ h1{
 li, h2{
     color:white;
 }
+h2.enlace{
+    cursor: pointer;
+}
 body {
     background-color: black;
     border: 5px solid violet;

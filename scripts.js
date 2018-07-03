@@ -2,6 +2,7 @@ function showMessage(){
     alert("Hello World! Hola Mundo! Hallo Welt");
 }
 
-function showWellcome(){
-    alert("Te damos la bienvenida Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.");
+function showInstruction(){
+    alert("La primera instrucción es hacer esto. La segunda instrucción es hacer esto. La tercera instrucción es hacer esto. La cuarta instrucción es hacer esto");
+
 }

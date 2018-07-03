@@ -3,8 +3,8 @@ h1{
     background-color: violet;
     cursor:pointer;
 }
-h2{
-    color: white;
+li, h2{
+    color:white;
 }
 body {
     background-color: black;
